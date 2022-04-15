@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Raleway:wght@100&display=swap');
+
+body {
+    background-color: wheat;
+    background-image: url(kahve.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Raleway;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1, h2, p {
+    color: white;
+    text-align: center;
+}
+
+p {
+padding: 10px;
+}
+
+h2 {
+    letter-spacing: 5px;
+}
+
+h1 {
+    letter-spacing: 10px;
+    font-size: 50px;
+}
+
+.kapsayici {
+    padding-top: 10%;
+}
+
+.hayvan {
+    background-color: rgba(20, 10, 5, 0.5);
+    display: inline-table;
+    padding: 10px;
+    margin: 10px;
+    width: 30%;
+    text-align: center;
+}
